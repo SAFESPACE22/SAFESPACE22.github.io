@@ -1,14 +1,21 @@
-# Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio Responsive Complete
+# Welcome to the repository for my personal website! This project showcases my portfolio, blog, and personal information. Built with modern web technologies, it serves as a platform to present my skills, projects, and thoughts.
 
-- Responsive Personal Portfolio Website HTML CSS & JavaScript.
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+# Table of Contents
+Features
+Technologies Used
+Installation
+Usage
+Contributing
+License
+Contact
+Demo
+Check out the live version of my personal website here: https://safespace22.github.io/
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+# Features
+Responsive Design: Ensures optimal viewing experience on all devices.
+Portfolio: Showcases my projects with descriptions and links.
+Information: Contains posts on various topics of interest and abilities.
+Contact: Allows visitors to get in touch with me.
+Dark Mode: Provides an alternative color scheme for better readability in low-light environments.
 
-![preview img](/preview.png)
-
+# Thank you for visiting my personal website repository!
