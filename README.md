@@ -1,15 +1,6 @@
 # Welcome to the repository for my personal website! 
 This project showcases my portfolio, blog, and personal information. Built with modern web technologies, it serves as a platform to present my skills, projects, and thoughts.
 
-# Table of Contents
-Features
-Technologies Used
-Installation
-Usage
-Contributing
-License
-Contact
-Demo
 Check out the live version of my personal website here: https://safespace22.github.io/
 
 # Features
