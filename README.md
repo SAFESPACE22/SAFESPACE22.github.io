@@ -1,4 +1,5 @@
-# Welcome to the repository for my personal website! This project showcases my portfolio, blog, and personal information. Built with modern web technologies, it serves as a platform to present my skills, projects, and thoughts.
+# Welcome to the repository for my personal website! 
+This project showcases my portfolio, blog, and personal information. Built with modern web technologies, it serves as a platform to present my skills, projects, and thoughts.
 
 # Table of Contents
 Features
